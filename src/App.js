@@ -22,8 +22,6 @@ function App() {
             </section>
             <section className="flex justify-around md:justify-center md:gap-10 w-[90%] mx-auto">
                 <IconButton category="brands" icon="square-twitter" href="https://twitter.com/eerchay"/>
-                <IconButton category="brands" icon="square-youtube" href="https://youtube.com/@cheer_"/>
-                <IconButton category="brands" icon="square-github" href="https://github.com/cheeeeer"/>
                 <IconButton category="solid" icon="square-envelope" href="mailto:cheerfultoe@gmail.com"/>
 
             </section>
